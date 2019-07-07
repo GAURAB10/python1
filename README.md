@@ -1,1 +1,1 @@
-# this repository is to check the Python 
+# this repository is to check the Python scripts 
